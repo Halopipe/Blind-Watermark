@@ -33,4 +33,4 @@
     > .\bwm-win-x64\bwm.exe ncc wm1.png wm2.png
 ```
 
-### [查看攻击测试报告和获取该工具](https://store.cocos.com/app/detail/5318)
+### [查看攻击测试报告和获取该工具](https://store.cocos.com/app/detail/5253)
